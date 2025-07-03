@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 75px; 
+  box-sizing: border-box;
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.header .logo1 img {
+  height: 30px;
+}
+
+.nav-wrapper {
+  flex-grow: 1;
+  margin-left: 37px; 
+}
+
+.nav .list {
+  display: flex;
+  gap: 32px; 
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}

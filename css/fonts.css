@@ -1,0 +1,15 @@
+body {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'Fraunces', serif;
+  font-size: 42px;
+  letter-spacing: 0.2px;
+}
+
+a {
+  text-decoration: none;
+  color: #33383F;
+}

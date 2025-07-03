@@ -1,0 +1,24 @@
+.btnbook {
+    background-color: #0070A0;
+    color: #fff;
+    padding: 8px 20px;
+    text-decoration: none;
+}
+
+.btnlink {
+    background-color: #fff;
+    color: #0070A0;
+    padding: 8px 20px;
+}
+
+.btn-small {
+    font-size: 13px;
+}
+
+.btn-medium {
+    font-size: 15px;
+}
+
+.btn-large {
+    font-size: 17px;
+}

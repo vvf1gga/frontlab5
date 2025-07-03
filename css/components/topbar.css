@@ -1,0 +1,13 @@
+.topbar {
+    background-color: #0070A0;
+    font-size: 14px;
+    padding: 8px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.topbar a {
+    color: #CCE5F3;
+    font-size: 13px;
+    font-weight: 500;
+}
