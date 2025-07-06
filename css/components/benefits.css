@@ -1,0 +1,35 @@
+.benefit-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 120px;
+}
+
+.benefit-cards .card {
+    width: 355px;
+    height: 250px;
+    padding: 32px;
+}
+
+.benefit-cards h1 {
+    font-size: 25px;
+    margin-bottom: 11px;
+    margin-top: 8px;
+}
+
+.benefit-cards p {
+    font-size: 15px;
+    width: 290px;
+    height: 72px;
+}
+
+.yellow {
+    background-color: #FAEA73;
+}
+
+.blue {
+    background-color: #CCEFF6;
+}
+
+.red {
+    background-color: #F7CEDC;
+}
