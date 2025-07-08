@@ -1,0 +1,41 @@
+.about {
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.about .contant {
+    display: flex;
+    justify-content: space-between;
+    width: 1130px;
+}
+
+.about .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.about .title {
+    width: 300px;
+}
+
+.about .card {
+    width: 222px;
+    height: 218px;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+}
+
+.about .card h1 {
+    font-size: 25px;
+}
+
+.about .card p {
+    font-size: 15px;
+}
+
+.about .card img {
+    width: 55px;
+    height: 55px;
+}
