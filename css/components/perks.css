@@ -1,0 +1,55 @@
+.perks {
+    background-color: #006B99;
+    margin-bottom: 120px;
+    height: 550px;
+    padding-top: 80px;
+}
+
+.perks .contant {
+    display: flex;
+    justify-content: space-between;
+}
+
+.perks .text {
+    width: 500px;
+    height: 374px;
+    color: #fff;
+}
+
+.perks .contant img {
+    width: 382px;
+    height: 374px;
+}
+
+.perks .text > p {
+    height: 80px;
+    font-size: 18px;
+    margin-top: 21px;
+    margin-bottom: 8px;
+}
+
+.perks .check {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 12px;
+    font-size: 16px;
+}
+
+.perks .checklist img {
+    width: 16px;
+    height: 10px;
+}
+
+.perks .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 176px;
+    height: 43px;
+    margin-top: 16px;
+}
+
+.perks a {
+    color: #fff;
+}
