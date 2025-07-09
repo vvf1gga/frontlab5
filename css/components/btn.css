@@ -6,11 +6,9 @@
 }
 
 .btnlink {
-    display: flex;
-    align-items: center;
-    width: 110px;
     background-color: #fff;
     color: #0070A0;
+    padding: 8px 20px;
 }
 
 .btn-small {
