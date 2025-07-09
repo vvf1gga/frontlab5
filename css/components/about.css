@@ -19,23 +19,24 @@
     width: 300px;
 }
 
-.about .card {
+.card {
     width: 222px;
     height: 218px;
     display: flex;
     flex-direction: column;
-    gap: 11px;
+    gap: 8px;
 }
 
-.about .card h1 {
+.card h1 {
     font-size: 25px;
+    margin-bottom: 3px;
 }
 
-.about .card p {
+.card p {
     font-size: 15px;
 }
 
-.about .card img {
+.card img {
     width: 55px;
     height: 55px;
 }
